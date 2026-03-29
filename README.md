@@ -1,2 +1,2 @@
 # badges!
-collect badges
+collect badges on github
